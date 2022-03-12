@@ -7,3 +7,4 @@ I am practicing coding in the Dart program language. My goal is to learn Dart an
 - [x] [Largest 5 Digits Number In A Series](https://www.codewars.com/kata/51675d17e0c1bed195000001/train/dart)
 - [x] [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56/train/dart)
 - [x] [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/dart)
+- [x] [Sum of Numbers from 0 to N](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763/train/dart)

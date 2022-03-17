@@ -9,3 +9,4 @@ I am practicing coding in the Dart program language. My goal is to learn Dart an
 - [x] [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/dart)
 - [x] [Sum of Numbers from 0 to N](https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763/train/dart)
 - [x] [Row Weight](https://www.codewars.com/kata/5abd66a5ccfd1130b30000a9/train/dart)
+- [x] [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db/train/dart)
